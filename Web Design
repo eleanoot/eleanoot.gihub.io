@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta charset="utf-8">
+      <title>Japanese Architecture</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="style.css">
+      <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+      <script>$(function() { alert('hello') });</script>
+    </head>
+    <style>
+        table, th, td {
+          border: 2px solid black;
+          border-collapse: collapse;
+          padding: 10px;
+        }
+        
+</style>
+    <body>
+      <div class="topnav"> 
+        <img id="logo" src="images/Logo.png" alt="logo"> 
+        <a  href="#">About Us</a>
+        <a href="#">About Site</a>
+        <div class= "dropdown">
+        <button class="dropbtn"> Explore</button>
+        <div class="dropdown-content">
+          
+          <a href="#">Food</a>
+          <a href="#">Clothing</a>
+          <a href="#">Art and Textiles</a>
+          <a href="#">Architecture</a>
+          <a href="#">Games</a></div>
+      </div> <a href=”index.html”>Home<a/></div>
+      
+      
+<header>
+       <h1>Japanese Architecture</h1>
+       <p id="intro" align="center">
+        Japanese architecture is one of the most recognizable features in Japanese culture.
+       <br> Read more to understand the unique features, styles and elements that make up this art form.
+        .</p>
+</header>
+       
+<br>
+<br>
+<h2>Architecture Styles</h2>
+<p>Go to:</p>
+<ul>
+  <li><a href="#AS1">Shinden-Zukuri</a></li>
+  <li><a href="#AS2">Buke-Zukuri</a></li>
+  <li><a href="#AS3">Sukiya-Zukuri</a></li>
+  <li><a href="#AS4">Japanese Shrine Architecture</a></li>
+  <li><a href="#AS5">Japanese Temple Architecture</a></li>
+</ul>
+<br>
+<br>
+<h3 id="AS1">Shinden-Zukuri</h3>
+  <img src="/images/shinden-zukuri1.jpeg" alt="Shinden-Zukuri example">
+<p>Architectural designs known as "shinden-zukuri" were popular in aristocratic residences throughout the Heian period.
+  A shinden is a stilted home with Hiwada thatched roofs (bark of Japanese cypress). Only shitomido separates the open construction from the outdoors (hinged plank doors). In front, a garden with a pond and tsukiyama was made (small hills).
+  Based on Jobohocho-sei of Heiankyo (the town demarcation plan of the then Capital Kyoto in the tenth century), each site is one cho (120 m) square, surrounded by Tsukiji (mud walls), and usually has gates other than on the south. This style was typically for high-ranking aristocrats higher than the sani rank. <br>
+<br>
+In contrast to Chinese mansions, Shinden had no south gate but faced south and featured a south courtyard. In the courtyard, numerous annual ceremonies took place.
+Since there are no dividing walls inside Shinden-zukuri, portable partitions like kicho, byobu, and tsuitate were used. However, since the building's exterior does not have any walls and the interior and exterior merge into one space when the shitomido are raised, a panoramic view of the entire garden is available.
+If there was a rich spring on the property, it was used as the water source and served as a significant source of cooling during the summer. A example Shinden-zukuri of a highly wealthy family, the Higashi Sanjoden of the FUJIWARA family, <br>
+<br>
+
+Even though there are no physical remnants of this Heian-era mansion, we can get an idea of what it looked like by reading descriptions in antique pictorial scrolls and the diaries of noble ministers and their servants.
+Shinden-zukuri, which typified the graceful lives of aristocrats, were frequently portrayed on picture scrolls of annual festivals and "the Picture Scroll of the Tale of Genji."
+</p>
+
+<br>
+<h3 id="AS2">Buke-zukuri</h3>
+<div class="pic 2"><img src="/images/buke-zukuri2.jpeg" alt="Buke-Zukuri example"></div>
+
+<p>In the Kamakura era, samurai homes were built in the Buke-zukuri style. The simplicity of the design was valued more than aristocratic culture since it was thought to be appropriate for samurai rather than aristocratic culture.
+  Shinden-zukuri style buildings, which served as the primary residence for nobles during the Heian period, served as the basis for samurai residences during this time; however, it appears that because samurai lifestyles diverged
+  from those of Court nobles and tenjobito (high-ranking courtiers permitted into the Imperial Palace), the style of residences was altered accordingly. Gokenin (an immediate subordinate of the shogunate) convened in the Samurai-dokoro
+  in the expansive 146-meter-wide Kamakura shogun house to attend rituals or banquets, but it is also believed that the shogun and gokenin interacted frequently. <br>
+  <br>
+  Additionally, although the specifics of samurai homes are still unclear today, a typical home up until the Muromachi period included the following: Strong walls and moats surrounded the buildings where various rooms were located,
+  including a tosaburai (tosamurai), where samurai gathered, a shinden and taimen-jo (meeting place), where they spent their days, Dei (Idei), a guest room, Kumonjo (Office of Administration), and a living room. The garden area was
+  also smaller than Shinden-zukuri style, matching the smaller-sized buildings
+</p>
+<br>
+<h3 id="AS3">Sukiya-zukuri</h3>
+<img src="/images/sukiya-zukuri1.jpeg" alt="Sukiya-Zukuri example">
+<p>Sukiya-zukuri, one of the architectural styles of Japan, is defined as a sukiya (teahouse)-inspired design of a residential home. Its name is derived from the words "suki," which means to enjoy furyu (fine aestheticism),
+  and "sukiya," which means "a house built as you please" or a teahouse. Examples of furyu include the waka (31-syllable Japanese poem), tea ceremony, and Japanese flower arranging. It is a house constructed by sukiya carpenters with a particular style of timber-frame construction.<br>
+    <br>
+    Sukiya, or Japanese teahouses, initially developed during the Azuchi-Momoyama Period. A sukiya was once a tiny, standalone teahouse with a garden view that could fit no more than four and a half tatami mats. To maintain hierarchy and prestige, shoin-zukuri, a large room with
+    an alcove, shelf, and tsukeshoin (a built-in table), was already well-established at the period. However, masters of ceremonial tea detested formal designs and exquisite ornamentation. They like sukiya that were constructed in a simple, light manner. From teahouses to private
+    residences, the sukiya style was popular during the Edo Period. Today, sukiya architecture is used to inspire a lot of luxury Japanese-style restaurants and homes. <br>
+    <br>
+    The status and style that shoin architecture prioritised are completely eliminated in sukiya architecture. Its minimalistic yet elegant design captures the essence of a tea master who values improving oneself internally over external décor when entertaining guests.
+    The attributes of Sukiya-zukuri include the following: Nageshi, a horizontal piece of wood in a frame, is missing: In most cases, round-surfaced menkawabashira (bark surfaces) are employed in place of these nageshi.
+</p>
+<br>
+<h3 id="AS4">Japanese Shrine Architecture</h3>
+<img src="/images/shrine-design.jpeg" alt="Japanese Shrine Example">
+<p>Shinto rituals were performed outside in temporary boundaries in undeveloped areas in the past. Permanent shrine buildings containing the deity ultimately superseded earlier makeshift constructions. Early shrine structures are examples of native Japanese architectural styles that predate the arrival of Buddhism. <br>
+    <br>
+    The Shinmei style, exemplified by the Ise Shrines, whose halls resemble old storehouses, and the Taisha style, exemplified by the Izumo Shrine, whose buildings resemble ancient dwellings, are two of the earliest architectural forms for shrines. There is also the Sumiyoshi style, which is exemplified by the Sumiyoshi
+    Shrine in Osaka and is seen to be quite similar to a native Japanese shrine architecture style. Buddhism arrived in China in the sixth century, bringing with it significant mainland architectural influences. Two early shrine construction prototypes that already exhibit more pronounced foreign influences are Kasuga Shrine and Usa Shrine.
+    The most impressive of all shrines, Nikko Toshogu Shrine, constructed in the 17th century, serves as an example of how shrines became more elaborate as the Edo Period progressed. <br>
+    <br>
+    Numerous shrine structures have been destroyed by fire or other natural calamities over the years. The oldest extant shrine buildings are therefore roughly a thousand years old, despite the fact that numerous shrines may have been erected more than a millennium ago, and the bulk of them are only a few centuries old.
+    Additionally, numerous significant shrines used to adhere to a distinctive practise of routine reconstruction for symbolic purity. The Ise Shrines continue carry out this tradition every twenty years, but some other significant shrines instead undertake yearly repairs.
+
+</p>
+<br>
+<h3 id="AS5">Japanese Temple Architecture</h3>
+<img src="/images/temple-design.jpeg" alt="Japanese Temple Example">
+<p>Around the sixth century, when Buddhism was introduced from China, temple construction followed. At early, temples had many characteristics in common with those in China, such as spacious courtyards and symmetrical designs. In Nara, in particular at Horyuji
+    (the world's oldest wooden structure), Todaiji (the world's largest wooden structure), Yakushiji, and Kofukuji, are some of the oldest surviving temple buildings showcasing these characteristics. Asukadera is thought to be the earliest Buddhist institution in Japan and is situated about 25 kilometres south of Nara City. <br>
+    <br>
+    As time went on, temple designs became more in line with regional preferences. New styles of temple architecture were influenced by cults that were just introduced from the mainland. Less symmetrical features started to appear on temples, and many of them started to include gardens in their grounds.
+    Additionally, temples were built in more isolated areas and in the highlands, where their architectural designs differed more due to their complicated topographies. Similar to shrines, temple buildings were also lost over time; those that still stand today are typically just a few centuries old.</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr class="rounded">
+<br>
+<br>
+<h2>Eight Main Elements of Japanese Architecture</h2>
+<ol>
+    <li>Wood</li>
+    <li>Roofs</li>
+    <li>Shoji</li>
+    <li>Fusuma</li>
+    <li>Tatami</li>
+    <li>Engawa</li>
+    <li>Genkan</li>
+    <li>Relationship with Nature</li>
+  </ol>
+<br>
+<h3>Wood</h3>
+<p>Wood dominates traditional Japanese architecture. Wood was chosen over stone or other materials due to the humidity, the probability of earthquakes, and the possibility of typhoons since it allowed for sufficient ventilation to battle the climate and was resilient in the face of natural disaster. <br>
+<br>
+An expression of gratitude was often shown in older Japanese homes by not painting the walls. They respected the wood and kept its innate beauty on display as a sign of their appreciation. Furthermore, many buildings avoid using nails, particularly temples and shrines. Instead, they use a technique called as
+toky to tightly interlock the building's frames together so that they fit together like puzzle pieces. Sustainable design and close ties to nature are highly valued in Japanese architecture. The minimalistic use of materials by the Japanese reveals a lot about their mentality.
+</p>
+<br>
+<h3>Roofs</h3>
+<p>Most Japanese traditional structures are characterised by their curved, lengthy roofs. They are significant due to their function in the construction as well as their aesthetic value. Four different roof types can be found in Japanese architecture: the irimoya (hip-and-gable roof), kirizuma (gabled roof), and yosemune (hipped roof) (square pyramidal roof). <br>
+    <br>
+    The wide shape of roof eaves serves to shield windows from rain, which is a common occurrence in Japan during the summer. Eaves frequently feature intricate and symbolic kawara (traditional Japanese roof tiles), which also serve as rain protection. In the summer, many Japanese people like opening their windows to let in fresh air and the soothing pitter-patter of rain while being well-protected by their roofs.
+</p>
+<br>
+<h3>Shoji & Fusuma</h3>
+<p>In older Japanese homes, sliding doors and movable screens (shiji) were standard features. While fusuma paper is opaque and prevents light from passing through, shiji are wooden frames with translucent paper that let light pass through. While they are frequently painted on in shrines and temples, they are typically solid white in ordinary homes. <br>
+    <br>
+    Despite their similarities, their duties are different. However, only shji are used as windows, external walls, and exterior doors because they enable light and shadows to flicker inside homes, providing a comfortable sense. Both shji and fusuma are used as interior doors and partition, used to split and re-divide rooms. Both gained widespread recognition in the West and were among the first features of Japanese architecture to be introduced there.
+</p>
+<br>
+<h3>Tatami</h3>
+<p>Even today, tatami (mats used as flooring in spaces decorated in the traditional Japanese manner) are a frequent fixture in Japanese households. Tatami are often created in a 2:1 ratio and are traditionally composed of rice straw and soft rush with fabric edging. Although it is now more typical to see at least one tatami room in a home, old Japanese homes frequently had their floors completely covered in tatami. <br>
+    <br>
+    Many people comment on the gentle aroma that follows them. Before stepping onto these conventional mat floorings, one is asked to remove their shoes.
+</p>
+<br>
+<h3>Engawa</h3>
+<p>Non-tatami-matted floors called engawa (Japanese veranda, meaning "edge side") resemble porches. They serve the purpose of connecting the inside of the house with the outside and are typically made of wood or bamboo. Shoes are not worn on engawa because they are a part of a home. Shoes can be left on the traditional stone step next to it instead.<br>
+    <br>
+    Many people enjoy spending time on engawa in the summer, whether it be to unwind and take in the scenery or to chat with family and friends while enjoying the sun.
+</p>
+<br>
+<h3>Genkan</h3>
+<p>Traditional Japanese entranceways, or genkan, are often found within a house, just in front of the door. Before entering the main portion of the house, shoes are placed in the genkan. Similar to a mud room, they are dug deeper than the rest of the building's floor to keep dirt out. 
+    Despite being present in almost every Japanese home, they are also common in hotels, businesses, and other structures.
+</p>
+<br>
+<h3>Relationship with Nature</h3>
+<p>All life has purpose and worth in Japanese culture, which is exemplified by their reverence for the natural world. Instead of taming it, they try to coexist peacefully with their natural environment. Homes and other structures are viewed as being a part of the environment and as being one with it. <br>
+ <br>
+  There is only a flow of mutual understanding; there is no push or pull between the created and uncreated. Japanese traditional architecture has recently emerged as a key source of inspiration and knowledge as modern architects and designers work to advance a new generation of circular and sustainable design.
+</p>
+<br>
+<hr class="rounded">
+<br>
+<br>
+<br>
+<h2>Traditional vs Modern Japanese Architecture</h2>
+<img src="/images/p4qwxq0dsc6v7cys.avif" alt="Modern Shoji Door">
+<p>Japanese architecture began as traditional and gradually shifted toward modernism, like so many other things. Respect for tradition is important to Japanese design. It has changed with time, but always in consideration of the culture and tradition that gave them constants they could not change.
+  <br>
+  <br>
+  Following World War II, modern design trends from around the world started to gain popularity. To stay up with the global movement, Europe and the United States began to gravitate toward the new forms of architecture's simplicity and abstraction. Fortunately, that didn't cause a problem for Japan.
+  Through the years, their architecture had included the ideas of simplicity, purity, and cleanliness. Therefore, what the rest of the world referred to as modernism was known as tradition in Japan. In fact, modern Japanese architecture allows us to see the Japanese tradition even more clearly than before. Traditionally, distinctive elements like Tatami flooring, Genkan, a traditional Japanese doorway, and wooden barriers known as Shoji panels. <br>
+<br>
+
+Although modernism in Japanese architecture did not significantly alter many characteristics of the country's traditional style, it did serve to emphasise the simplicity, purity, and tranquilly of the design. The primary distinction can be seen in the components used, such as steel and concrete. The fact that these materials are long-lasting and require little maintenance over time is typically preferred by customers. The way that construction is done has also changed as a result of modern technology. <br>
+<br>
+Shoji doors, which are still frequently employed in Japanese architecture, serve as an example of this change in style. However, manufacturers provide Shoji doors constructed of wood and glass as an alternative to wood and paper, which provide little sound insulation. The wooden frame and patterns of shoji maintain its distinctiveness.
+</p>
+<br>
+<table>
+    <tr>
+      <th>Traditional Japanese Architecture</th>
+      <th>Modern Japanese Architecture</th>
+    </tr>
+    <tr>
+      <td>Materials like paper, stone, straw and wood were frequently used</td>
+      <td>Materials like concrete, steel and glass are now used</td>
+    </tr>
+    <tr>
+      <td>Wooden structures were preferred as they could withstand natural disasters</td>
+      <td>Concrete and steel structures are now preferred as they are durable, require little maintanence and withstand natural disasters</td>
+    </tr>
+  </table>
+
+  <br>
+  <br>
+  <br>
+
+  <div class="footer">
+    <p id="copyright">Copyright © 2022 Japan Group - Web Publishing All Rights Reserved</p>
+  </div>
+    </body>
+
+    
+</html>
